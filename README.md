@@ -6,6 +6,7 @@ So there are no user accounts and follow function.
 Check out [LIVE DEMO here!!](https://merci-twitter-clone.herokuapp.com/)
 # Screenshot
  <img width="623" alt="Screen Shot 2022-04-14 at 12 29 40 AM" src="https://user-images.githubusercontent.com/99232100/163314167-ed938f20-4f4b-48eb-bf01-bd14e5ec54ea.png">
+ 
 # Tech used
 * Html
 * Css
